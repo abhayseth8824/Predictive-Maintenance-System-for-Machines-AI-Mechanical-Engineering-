@@ -1,1 +1,1 @@
-# Predictive-Maintenance-System-for-Machines-AI-Mechanical-Engineering-
+# Predictive Maintenance System for Machines (AI + Mechanical Engineering)
